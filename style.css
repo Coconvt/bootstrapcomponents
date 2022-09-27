@@ -23,13 +23,25 @@ img.alternate{
     height:auto;
 }
 
+.home-info{
+    background-color: #2e393d;
+    color: aliceblue;
+    border-style: groove;
+    border-width: 10px;
+    border-color: #edae49;
+}
+
+.home-info img{
+    width: 100%;
+}
+
 /* home */
 
 .home{
     background-color:#3376bd;
 }
 
-h1 > .home{
+#home-title{
     color:#2e393d;
 }
 
