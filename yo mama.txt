@@ -1,0 +1,5 @@
+<a href="ps1.html" class="nav-link">PSOne</a>
+<a href="ps2.html" class="nav-link">PlayStation 2</a>
+<a href="ps3.html" class="nav-link">PlayStation 3</a>
+<a href="ps4.html" class="nav-link">PlayStation 4</a>
+<a href="ps5.html" class="nav-link">PlayStation 5</a>
