@@ -20,15 +20,9 @@ img.alternate{
     width: 100%;
 }
 
-.home-info{
-    background-color: #2e393d;
-    color: aliceblue;
-    border-style: groove;
-    border-width: 10px;
-    border-color: #edae49;
-}
-
-.home-info img{
+.footer{
+    position: absolute;
+    bottom: 0;
     width: 100%;
 }
 
@@ -40,6 +34,18 @@ img.alternate{
 
 #home-title{
     color:#2e393d;
+}
+
+.home-info img{
+    width: 100%;
+}
+
+.home-info{
+    background-color: #2e393d;
+    color: aliceblue;
+    border-style: groove;
+    border-width: 10px;
+    border-color: #edae49;
 }
 
 /* ps1 */
@@ -90,4 +96,8 @@ img.alternate{
 
 #ps5-title{
     color:cadetblue
+}
+
+a:hover{
+    font-weight: bold;
 }
