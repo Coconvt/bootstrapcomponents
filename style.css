@@ -17,10 +17,7 @@ body{
 }
 
 img.alternate{
-    display:block;
-    margin:auto;
-    width:800px;
-    height:auto;
+    width:100%;
 }
 
 .home-info{
